@@ -1,0 +1,7 @@
+user:
+  name: "your GitHub login name"
+  password: "your GitHub login password"
+  token: "GitHub access token" # see https://github.com/settings/tokens
+repo:
+  from: "discribe original repo like belion-freee/hoge"
+  to:   "discribe export repo like belion-freee/fuga"
